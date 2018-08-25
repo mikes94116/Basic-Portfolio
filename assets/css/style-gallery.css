@@ -1,0 +1,185 @@
+body {
+    margin-top: 0px; 
+    margin-bottom: 0px; 
+    margin-left: 0px; 
+    margin-right: 0px;
+    padding: 0;
+}
+
+#left-header {
+
+    padding-left:220px;
+
+}
+
+#em {
+
+    background-color: rgb(38, 180, 166);
+    color:white;
+    padding:20px 35px;
+    float:left;
+    margin:0;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+#nav-1 {
+    float:right;
+    word-spacing: 15px;
+    color:rgb(155, 144, 144);
+    font-size: 16px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position:relative;
+    top:28px;
+    right:225px;
+
+}
+
+a {
+
+    text-decoration: none;
+    color:rgb(155, 144, 144);
+}
+
+a:hover {
+
+    text-decoration: underline;
+    color:blue;
+}
+
+#e1 {
+
+    clear:both;
+    border-bottom: 2px solid rgb(187, 172, 172); 
+
+}
+
+#e2 {
+
+    background-image: url("https://i.imgur.com/PQHKZPM.jpg");
+    background-repeat: repeat;
+
+}
+
+#e3 {
+
+    width:960px;
+    height:900px;
+    background-color:#fff;
+    margin-left:220px;
+    margin-top:15px;
+
+}
+
+#e4 {
+    padding:35px 0px 5px 30px;
+    color:rgb(38, 180, 166);
+    font-family:'Georgia', Times, Times New Roman, serif;
+}
+
+.thumbs {
+
+    width:275px;
+    height:205px;
+    margin-left:35px;
+    margin-top:40px;
+    float:left;
+
+}
+
+img {
+
+    width:100%;
+
+}
+
+#e5 {
+
+    clear:both;
+    width:269px;
+    height:202px;
+    background-color:#fff;
+    float:right;
+    position:relative;
+    bottom:685px;
+    right:225px;
+
+}
+
+#e6 {
+    color:rgb(38, 180, 166);
+    font-family:'Georgia', Times, Times New Roman, serif;
+    text-align:center;
+}
+
+#e7 {
+
+    width:225px;
+    height:100px;
+    margin-top:20px;
+    margin-left:17px;
+
+}
+
+.fab {
+
+    align:left;
+    float:left;
+    padding-left: 15px;
+
+}
+
+input[type=text] {
+    width: 550px;
+    border: 1px solid lightgray;
+}
+
+form {
+
+    position:relative;
+    left:30px;
+    float:left;
+    
+}
+
+#msg {
+
+    height:140px;
+
+}
+
+.firstInputs {
+
+    height:30px;
+
+}
+
+hr {
+    
+    margin:0 auto;
+    border-bottom: 1px solid rgb(187, 172, 172); 
+    width : 890px;
+
+}
+
+#hr2 {
+    
+    margin:0 auto;
+    border-bottom: 1px solid rgb(209, 194, 194); 
+    width : 250px;
+
+}
+
+footer {
+
+    background-color: rgb(118, 125, 126);
+    color:white;
+    width:100%;
+    height:50px;
+    margin-bottom: 0px; 
+    font-family: 'Tinos', serif;
+    position: fixed;
+    bottom: 0px;
+    border-top: 7px solid rgb(38, 180, 166);
+
+}
